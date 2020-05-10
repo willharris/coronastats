@@ -16,4 +16,4 @@ jupyter lab
 
 ## Sources
 * [Johns Hopkins COVID-19 Data Sets](https://github.com/CSSEGISandData/COVID-19)
-* https://github.com/openZH/covid_19
+* [Our World In Data COVID-19 Data Sets](https://github.com/owid/covid-19-data/tree/master/public/data) from [the Our World In Data Coronavirus page](https://ourworldindata.org/coronavirus)
